@@ -1,3 +1,0 @@
-install:
-- FILE="-Dfile=jars/AuctionHouse-1.19-3.3.1.jar"
-- mvn install:install-file $FILE -DgroupId=com.github.Heliosares -DartifactId=repo -Dversion=1.0 -Dpackaging=jar -DgeneratePom=true
